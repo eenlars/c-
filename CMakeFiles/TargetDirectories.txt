@@ -1,0 +1,3 @@
+/Users/Lars/Documents/GitHub/c-/CMakeFiles/Assignment_1_Project.dir
+/Users/Lars/Documents/GitHub/c-/CMakeFiles/ALL_BUILD.dir
+/Users/Lars/Documents/GitHub/c-/CMakeFiles/ZERO_CHECK.dir
